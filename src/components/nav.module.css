@@ -1,0 +1,20 @@
+.nav{
+    font-size:2em;
+    
+    font-weight: bold;
+    color:#393e46;
+    padding:30px;
+    box-shadow: 0 0  10px rgb(0,0,0,0.5);
+}
+.title{
+    background: rgb(255, 255, 255);
+	background: linear-gradient(
+		0deg,
+		rgba(255, 255, 255, 1) 75%,
+		rgba(255, 255, 255, 0.9) 80%,
+		rgba(255, 255, 255, 0.25) 95%,
+		rgba(255, 255, 255, 0) 100%
+	);
+    font-family: "Yanone Kaffeesatz";
+	
+}
